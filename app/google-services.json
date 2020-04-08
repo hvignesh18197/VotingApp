@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551229281348",
+    "firebase_url": "https://test-1265a.firebaseio.com",
+    "project_id": "test-1265a",
+    "storage_bucket": "test-1265a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551229281348:android:6586b2ec07bef9a3d59811",
+        "android_client_info": {
+          "package_name": "com.boby.myapp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551229281348-bkhn172l9jpqkfjcg7vl3ll08kj7004k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxew0ToIoOlFO9EZdCaM4VFt-L-dCfoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551229281348-bkhn172l9jpqkfjcg7vl3ll08kj7004k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
